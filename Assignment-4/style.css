@@ -124,8 +124,8 @@ header{
 }
 .flower{
     position: absolute;
-    left:25%;
-    top:50%;
+    left:28%;
+    top:70%;
     font-size: 40px;
 }
 .left {
@@ -226,6 +226,12 @@ header{
     align-items: flex-end;
     justify-content: center;
 }
+
+.item-orange img{
+      max-height: 100%;
+      width: auto;
+}
+    
 
 img {
     width: 100%;
@@ -380,6 +386,6 @@ img {
     position: absolute;
     width:70px;
     left: 50%;
-    top:70%;
+    top:80%;
     transform: translate(-50%, 0%);
 }

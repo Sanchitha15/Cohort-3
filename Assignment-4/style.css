@@ -126,7 +126,7 @@ header{
 .flower{
     position: absolute;
     left:28%;
-    top:70%;
+    top:66%;
     font-size: 40px;
 }
 .left {
@@ -387,6 +387,6 @@ img {
     position: absolute;
     width:70px;
     left: 50%;
-    top:80%;
+    top:76%;
     transform: translate(-50%, 0%);
 }
